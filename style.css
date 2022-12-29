@@ -17,6 +17,9 @@ body {
     -ms-user-select: none;
     user-select: none;
     background-color: #000;
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-position: 70%;
 }
 
 .container {
