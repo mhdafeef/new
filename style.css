@@ -265,11 +265,11 @@ body {
 
 .g-pay {
     display: flex;
-    height: 30px;
+    height: 25px;
     margin: auto;
     border-radius: 20px;
-    margin-top: 8px;
-    margin-bottom: 5px;
+    margin-top: 11px;
+    margin-bottom: 7px;
 }
 
 .social-btn {
