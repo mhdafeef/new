@@ -251,15 +251,16 @@ body {
 .pay-btn {
     display: flex;
     width: 40%;
-    background-color: #fff;
     justify-content: center;
     margin: auto;
     border-radius: 20px;
     overflow: hidden;
 }
 
-.pay {
+.gpay {
     display: flex;
+    width: 100%;
+    background-color: #fff;
 }
 
 .g-pay {
